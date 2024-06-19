@@ -17,5 +17,9 @@ Base URL: https://attirely-rdyhzmydia-et.a.run.app/
 ### Architecture
 
 <p align="center">
-  <img src="image/Cloud%20Arsitektur.drawio" alt="Cloud Architecture" width="600"/>
+  <img src="image/Cloud%20Arsitektur.drawio.png" alt="Cloud Architecture" width="600"/>
 </p>
+
+### Documentation
+
+You can download Postman [here](https://documenter.getpostman.com/view/24313497/2sA3XTdfJ8).
