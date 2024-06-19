@@ -8,8 +8,14 @@ This documentation explains how to access and use the API for the outfit recomme
 
 Base URL: https://attirely-rdyhzmydia-et.a.run.app/
 
-### Judul API Endpoint
+### API Endpoint
 
 - **Recommendation**
   - GET /cewek
   - GET /cowok
+
+### Architecture
+
+<p align="center">
+  <img src="image/Cloud%20Arsitektur.drawio" alt="Cloud Architecture" width="600"/>
+</p>
