@@ -22,4 +22,16 @@ Base URL: https://attirely-rdyhzmydia-et.a.run.app/
 
 ### Documentation
 
-You can download Postman [here](https://documenter.getpostman.com/view/24313497/2sA3XTdfJ8).
+Documentation Postman [here](https://documenter.getpostman.com/view/24313497/2sA3XTdfJ8).
+
+### Setup Instructions
+
+1. Clone this GitHub repository: [https://github.com/Attirely/Cloud-Computing.git](https://github.com/Attirely/Cloud-Computing.git)
+2. Install Dependencies:
+    ```sh
+    npm init
+    ```
+3. Start the application:
+    ```sh
+    npm run start
+    ```
