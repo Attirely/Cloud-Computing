@@ -11,12 +11,10 @@ Base URL: https://attirely-rdyhzmydia-et.a.run.app/
 ### API Endpoint
 
 - **Recommendation**
-  - GET /cewek
-    ```sh
+  - ```sh
     GET /cewek
     ```
-  - GET /cowok
-    ```sh
+  - ```sh
     GET /cowok
     ```
 
