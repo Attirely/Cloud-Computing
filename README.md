@@ -39,3 +39,7 @@ Documentation Postman [here](https://documenter.getpostman.com/view/24313497/2sA
     ```sh
     npm run start
     ```
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm (v6 or higher)
