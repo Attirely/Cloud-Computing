@@ -13,11 +13,11 @@ Base URL: https://attirely-rdyhzmydia-et.a.run.app/
 - **Recommendation**
   - GET /cewek
     ```sh
-    curl -X GET "https://attirely-rdyhzmydia-et.a.run.app/cewek"
+    GET /cewek
     ```
   - GET /cowok
     ```sh
-    curl -X GET "https://attirely-rdyhzmydia-et.a.run.app/cowok"
+    GET /cowok
     ```
 
 ### Architecture
